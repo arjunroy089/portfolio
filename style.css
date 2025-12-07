@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+nav{
+    gap: 20px;
+    display: flex;
+    
+}
+.header-right>button{
+    background-color: yellow;
+    
+
+}
+a{
+    text-decoration: none;
+}
+.header-right>button:hover{
+    background-color: aqua;
+    
+}
